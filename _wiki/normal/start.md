@@ -3,8 +3,8 @@ layout  : wiki
 title   : 위키 시작하기 
 summary : Baby steps, for a big step.
 date    : 2023-02-08 22:33:43 +0900
-updated : 2023-02-08 22:53:22 +0900
-tag     : wiki, vimwiki, jekyll, blog 
+updated : 2023-02-08 23:38:45 +0900
+tag     : wiki vimwiki jekyll blog 
 public  : true
 parent  : root,normal 
 latex   : false
