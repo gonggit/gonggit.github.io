@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://johngrib.github.io/sitemap.xml
+Sitemap: https://gonggit.github.io/sitemap.xml
