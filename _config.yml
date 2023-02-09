@@ -39,8 +39,8 @@ collections:
 giscus:
   repo: gonggit/gonggit.github.io
   repo_id: R_kgDOI62UXA
-  category: Announcements
-  category_id: DIC_kwDOI62UXM4CUFtw
+  category: General
+  category_id: DIC_kwDOI62UXM4CUFtx
 
 google_analytics:
   ua: SAMPLE-VALUE
