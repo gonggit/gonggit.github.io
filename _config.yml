@@ -38,9 +38,9 @@ collections:
 # Comment Service
 giscus:
   repo: gonggit/gonggit.github.io
-  repo_id: SAMPLE-VALUE
+  repo_id: R_kgDOI62UXA
   category: Announcements
-  category_id: SAMPLE-VALUE
+  category_id: DIC_kwDOI62UXM4CUFtw
 
 google_analytics:
   ua: SAMPLE-VALUE
