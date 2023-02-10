@@ -1,15 +1,18 @@
 ---
 layout  : category
-title   : 제목을 입력합니다.
-summary : 
-date    : 2023-02-08 22:25:41 +0900
-updated : 2023-02-09 21:37:44 +0900
-tag     : 
+title   : 일반 
+summary : 잡담
+date    : 2023-02-10 22:34:34 +0900
+updated : 2023-02-10 22:40:32 +0900
+tag     :  
+resource: BA/CD2627-269B-4468-83F4-69DDDAA1F53E
 toc     : true
-public  : false 
-parent  : index
+public  : true
+parent  : [[/index]]
 latex   : false
+comment : false
 ---
-
 * TOC
 {:toc}
+
+#

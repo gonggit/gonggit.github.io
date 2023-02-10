@@ -3,12 +3,12 @@ layout  : wiki
 title   : 노션의 전체보기(피드) 삭제, 왜일까? 
 summary : 기록만큼 중요한 공유 
 date    : 2023-02-10 18:07:50 +0900
-updated : 2023-02-10 18:30:37 +0900
+updated : 2023-02-10 22:41:59 +0900
 tag     : notion 
 resource: 7C/BE1CAE-5BCA-4A62-A4BE-99D6FFA0603F
 toc     : true
 public  : true
-parent  : index 
+parent  : [/normal]
 latex   : false
 ---
 * TOC
