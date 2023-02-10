@@ -1,0 +1,13 @@
+{
+ "type": "wiki",
+ "title": "일반",
+ "summary": "잡담",
+ "parent": "index",
+ "url": "/wiki/normal",
+ "updated": "2023-02-10 22:40:32 +0900",
+ "resource": "BA/CD2627-269B-4468-83F4-69DDDAA1F53E",
+ "children": [
+  "normal/all-section-notion",
+  "normal/start"
+ ]
+}
