@@ -1,15 +1,15 @@
 ---
 layout  : wiki
-title   : 
+title   : 최고의 운전자가 되기 위하여 
 summary : 
 date    : 2023-02-10 22:49:21 +0900
-updated : 2023-02-11 23:55:16 +0900
+updated : 2023-02-11 23:57:30 +0900
 tag     : 
 resource: 52/2A086D-297C-4D3D-BFC3-CA8D3AF5DDB4
 toc     : true
 public  : true
-parent  : 
-latex   : false
+parent  : [[/normal]] 
+latex   : true 
 ---
 * TOC
 {:toc}
