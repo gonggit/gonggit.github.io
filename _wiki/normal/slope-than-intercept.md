@@ -1,15 +1,15 @@
 ---
 layout  : wiki
-title   : 
-summary : 
+title   : 절편보다 기울기 
+summary : 기울기를 키우기 위한 자세 
 date    : 2023-02-13 21:30:32 +0900
-updated : 2023-02-13 23:42:04 +0900
-tag     : 
+updated : 2023-02-13 23:43:45 +0900
+tag     :  
 resource: 7E/0D5131-D1DC-4F54-88CE-3FC907B94319
 toc     : true
 public  : true
-parent  : 
-latex   : false
+parent  : [[/normal]] 
+latex   : true 
 ---
 * TOC
 {:toc}
