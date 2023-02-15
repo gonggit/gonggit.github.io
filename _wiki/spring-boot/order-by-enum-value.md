@@ -3,12 +3,12 @@ layout  : wiki
 title   : EnumType.String 컬럼 Enum property로 정렬하기 
 summary :  
 date    : 2023-02-15 16:56:22 +0900
-updated : 2023-02-15 20:41:30 +0900
+updated : 2023-02-15 20:51:49 +0900
 tag     : springboot jpa mysql 
 resource: AB/0651B1-874E-48B8-A344-34F61A2CAEC5
 toc     : true
 public  : true
-parent  : 
+parent  : [[/spring-boot]] 
 latex   : false
 ---
 * TOC

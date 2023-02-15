@@ -6,5 +6,7 @@
  "url": "/wiki/spring-boot",
  "updated": "2023-02-15 16:48:42 +0900",
  "resource": "67/E314CC-8620-4334-AB92-529B94E3E502",
- "children": []
+ "children": [
+  "spring-boot/order-by-enum-value"
+ ]
 }
