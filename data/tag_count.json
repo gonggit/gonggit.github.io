@@ -8,7 +8,19 @@
   "size": 1
  },
  {
+  "name": "jpa",
+  "size": 1
+ },
+ {
+  "name": "mysql",
+  "size": 1
+ },
+ {
   "name": "notion",
+  "size": 1
+ },
+ {
+  "name": "springboot",
   "size": 1
  },
  {

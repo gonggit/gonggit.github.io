@@ -1,0 +1,10 @@
+{
+ "type": "wiki",
+ "title": "@Enumerated(value = EnumType.String) 컬럼 정렬하기",
+ "summary": "varchar지만 int로 검색하고싶어(?)",
+ "parent": "spring-boot",
+ "url": "/wiki/spring-boot/order-by-string-enum",
+ "updated": "2023-02-15 16:54:15 +0900",
+ "resource": "36/B185C9-5373-4698-8AA8-B46FC25E1344",
+ "children": []
+}
