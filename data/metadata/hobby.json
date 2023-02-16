@@ -1,0 +1,12 @@
+{
+ "type": "wiki",
+ "title": "취미생활",
+ "summary": "흔한 취미",
+ "parent": "index",
+ "url": "/wiki/hobby",
+ "updated": "2023-02-16 23:24:22 +0900",
+ "resource": "63/8FEAD2-C9FA-448C-B8B9-812F0719ACAE",
+ "children": [
+  "hobby/ai-commit-test"
+ ]
+}
