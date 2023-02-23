@@ -7,6 +7,7 @@
  "children": [
   "hobby",
   "normal",
-  "spring-boot"
+  "spring-boot",
+  "study"
  ]
 }
