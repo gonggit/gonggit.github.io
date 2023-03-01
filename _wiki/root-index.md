@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-02-23 23:15:48 +0900
+updated : 2023-03-01 13:16:58 +0900
 regenerate: true
 ---
 
@@ -15,6 +15,7 @@ regenerate: true
 * [[/normal/best-driver]]
 * [[/normal/slope-than-intercept]]
 * [[/normal/personal-affairs-1]]
+* [[/normal/cold]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -25,4 +26,3 @@ regenerate: true
 
 ## [[/study]]
 - [[/study/dd]]
-
