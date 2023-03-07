@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-03-01 13:16:58 +0900
+updated : 2023-03-07 16:49:03 +0900
 regenerate: true
 ---
 
@@ -26,3 +26,4 @@ regenerate: true
 
 ## [[/study]]
 - [[/study/dd]]
+- [[/study/rust-1]]
