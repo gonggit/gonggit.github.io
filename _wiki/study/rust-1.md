@@ -3,7 +3,7 @@ layout  : wiki
 title   : Rust 배워보기 (1) 
 summary :  
 date    : 2023-03-07 16:49:03 +0900
-updated : 2023-03-09 11:13:42 +0900
+updated : 2023-03-20 15:03:50 +0900
 tag     : 
 resource: 6E/3ADAA7-F19C-4AFF-ABD0-08DF8EC8F2E3
 toc     : true
@@ -153,6 +153,6 @@ fn main() {
 
 
 ## Resources
-[[-]] [Comprehensive rust](https://github.com/google/comprehensive-rust)
+- [Comprehensive rust](https://github.com/google/comprehensive-rust)
 - [파이썬 개발자를 위한 Rust](https://indosaram.github.io/rust-python-book/)
 
