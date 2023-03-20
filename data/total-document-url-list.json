@@ -6,6 +6,7 @@
  "/wiki/index",
  "/wiki/normal",
  "/wiki/normal/all-section-notion",
+ "/wiki/normal/balance",
  "/wiki/normal/best-driver",
  "/wiki/normal/cold",
  "/wiki/normal/personal-affairs-1",
@@ -16,5 +17,6 @@
  "/wiki/spring-boot/order-by-enum-value",
  "/wiki/study",
  "/wiki/study/dd",
- "/wiki/study/rust-1"
+ "/wiki/study/rust-1",
+ "/wiki/study/rust-2"
 ]
