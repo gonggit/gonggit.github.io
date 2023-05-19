@@ -3,11 +3,11 @@ layout  : wiki
 title   : 이직을 준비하며 (1) 
 summary : 험난한 이직 준비 
 date    : 2023-04-21 13:22:15 +0900
-updated : 2023-04-28 18:41:42 +0900
+updated : 2023-05-19 11:05:17 +0900
 tag     : 
 resource: 2D/3B514A-B26F-4BDE-B6AE-E7F6A09077C0
 toc     : true
-public  : true
+public  : false 
 parent  : [[/normal]] 
 latex   : true 
 ---
