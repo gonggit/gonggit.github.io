@@ -5,6 +5,7 @@
  "updated": "2023-02-10 22:39:28 +0900",
  "resource": "A7/35E2F5-981B-4E21-AE4D-34850826262D",
  "children": [
+  "book",
   "hobby",
   "normal",
   "spring-boot",
