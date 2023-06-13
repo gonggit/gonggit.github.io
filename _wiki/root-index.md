@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-04-13 00:06:09 +0900
+updated : 2023-06-12 12:54:43 +0900
 regenerate: true
 ---
 
@@ -18,6 +18,7 @@ regenerate: true
 * [[/normal/cold]]
 * [[/normal/balance]]
 * [[/normal/turnover]]
+* [[/normal/baby1]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -30,3 +31,6 @@ regenerate: true
 - [[/study/dd]]
 - [[/study/rust-1]]
 - [[/study/rust-2]]
+
+## [[/book]]
+- [[/book/stolen-focus]]
