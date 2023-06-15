@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-06-12 12:54:43 +0900
+updated : 2023-06-14 17:22:06 +0900
 regenerate: true
 ---
 
@@ -34,3 +34,6 @@ regenerate: true
 
 ## [[/book]]
 - [[/book/stolen-focus]]
+
+## [[/python]]
+- [[/python/escape-unicode]]
