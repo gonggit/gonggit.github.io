@@ -2,9 +2,9 @@
  "type": "wiki",
  "title": "json.dumps 할 때 한글 깨짐",
  "summary": "또 잊어버리느니 기록해두자.",
- "parent": "",
+ "parent": "python",
  "url": "/wiki/python/escape-unicode",
- "updated": "2023-06-15 17:03:51 +0900",
+ "updated": "2023-06-15 17:56:11 +0900",
  "resource": "60/54A84D-0A12-485B-9DC7-ED258C4ED80B",
  "children": []
 }
