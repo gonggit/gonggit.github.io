@@ -3,12 +3,12 @@ layout  : wiki
 title   : json.dumps 할 때 한글 깨짐 
 summary : 또 잊어버리느니 기록해두자. 
 date    : 2023-06-14 17:19:21 +0900
-updated : 2023-06-15 17:03:51 +0900
+updated : 2023-06-15 17:56:11 +0900
 tag     : 
 resource: 60/54A84D-0A12-485B-9DC7-ED258C4ED80B
 toc     : true
 public  : true
-parent  : 
+parent  : [[/python]] 
 latex   : false
 ---
 * TOC
