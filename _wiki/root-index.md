@@ -37,3 +37,6 @@ regenerate: true
 
 ## [[/python]]
 - [[/python/escape-unicode]]
+
+## [[/nestjs]]
+- [[/nestjs/basic]]
