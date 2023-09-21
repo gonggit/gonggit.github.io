@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-08-24 22:03:28 +0900
+updated : 2023-09-21 20:11:38 +0900
 regenerate: true
 ---
 
@@ -19,6 +19,7 @@ regenerate: true
 * [[/normal/balance]]
 * [[/normal/turnover]]
 * [[/normal/baby1]]
+* [[/normal/gmail-signature]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -38,5 +39,12 @@ regenerate: true
 ## [[/python]]
 - [[/python/escape-unicode]]
 
+## [[/typescript]]
+- [[/typescript/object-literal]]
+
 ## [[/nestjs]]
 - [[/nestjs/basic]]
+- [[/nestjs/fundamental-1]]
+
+## [[/web-dev]]
+- [[/web-dev/beginner]]
