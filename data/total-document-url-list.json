@@ -6,12 +6,16 @@
  "/wiki/hobby/ai-commit-test",
  "/wiki/hobby/vimium",
  "/wiki/index",
+ "/wiki/nestjs",
+ "/wiki/nestjs/basic",
+ "/wiki/nestjs/fundamental-1",
  "/wiki/normal",
  "/wiki/normal/all-section-notion",
  "/wiki/normal/baby1",
  "/wiki/normal/balance",
  "/wiki/normal/best-driver",
  "/wiki/normal/cold",
+ "/wiki/normal/gmail-signature",
  "/wiki/normal/personal-affairs-1",
  "/wiki/normal/slope-than-intercept",
  "/wiki/normal/start",
@@ -23,5 +27,10 @@
  "/wiki/study",
  "/wiki/study/dd",
  "/wiki/study/rust-1",
- "/wiki/study/rust-2"
+ "/wiki/study/rust-2",
+ "/wiki/typescript",
+ "/wiki/typescript/object-literal",
+ "/wiki/web-dev",
+ "/wiki/web-dev/beginner",
+ "/wiki/web-dev/happy-border-box"
 ]
