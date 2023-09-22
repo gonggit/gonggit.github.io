@@ -3,7 +3,7 @@ layout  : wiki
 title   : object literal? 
 summary : 타입스크립트 뉴비의 좌충우돌 공부 
 date    : 2023-09-15 18:30:35 +0900
-updated : 2023-09-22 19:53:56 +0900
+updated : 2023-09-22 20:06:10 +0900
 tag     : 
 resource: 72/0FE31D-A207-40F8-986A-7AB5E5956AD6
 toc     : true
@@ -69,7 +69,7 @@ createElement({
   title: "춘식이 스퀴즈볼",
   description: "귀여운 춘식이 볼을 조물락",
   price: 10000,
-  discountRate: 5, // 에러!
+  discountRate: 5,
 } as ElementProps);
 ```
 
@@ -80,7 +80,7 @@ const parameter = {
   title: "춘식이 스퀴즈볼",
   description: "귀여운 춘식이 볼을 조물락",
   price: 10000,
-  discountRate: 5, // 에러!
+  discountRate: 5,
 }
 
 // 별도의 변수로 분리한 후 넘긴다.
@@ -105,7 +105,7 @@ createElement({
   title: "춘식이 스퀴즈볼",
   description: "귀여운 춘식이 볼을 조물락",
   price: 10000,
-  discountRate: 5, // 에러!
+  discountRate: 5,
 });
 ```
 
