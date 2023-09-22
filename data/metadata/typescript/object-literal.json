@@ -1,10 +1,10 @@
 {
  "type": "wiki",
  "title": "object literal?",
- "summary": "",
- "parent": "",
+ "summary": "타입스크립트 뉴비의 좌충우돌 공부",
+ "parent": "typescript",
  "url": "/wiki/typescript/object-literal",
- "updated": "2023-09-15 18:36:34 +0900",
+ "updated": "2023-09-22 19:53:56 +0900",
  "resource": "72/0FE31D-A207-40F8-986A-7AB5E5956AD6",
  "children": []
 }

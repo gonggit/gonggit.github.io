@@ -6,5 +6,7 @@
  "url": "/wiki/typescript",
  "updated": "2023-09-15 18:27:25 +0900",
  "resource": "C9/BD0EF7-C554-49B7-86BF-31AD1B112E5F",
- "children": []
+ "children": [
+  "typescript/object-literal"
+ ]
 }
