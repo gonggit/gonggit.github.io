@@ -3,7 +3,7 @@ layout  : wiki
 title   : CSS CHALLENGE #1 
 summary : 
 date    : 2023-09-25 19:17:45 +0900
-updated : 2023-09-25 19:46:40 +0900
+updated : 2023-09-25 19:53:28 +0900
 tag     : 
 resource: 00/26C4F6-5754-4790-82F7-249EB7C55939
 toc     : true
@@ -25,7 +25,7 @@ latex   : true
 
 - background: linear-gradient(direction, from color, to color) : 백그라운드 색상을 gradient로 설정할 수 있다.
 - transform: translate(x, y), rotate(deg) 요소를 이동하고 회전시킬 수 있다.
-- box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2) : offset-x | offset-y | blur-radius | color : 박스 그림자를 생성한다.
+- box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2) : offset-x offset-y blur-radius color : 박스 그림자를 생성한다.
 - border-radius: deg; : 요소의 모서리의 곡률. 50%인 경우 원을 만든다! 
 
 
