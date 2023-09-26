@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-09-25 19:47:03 +0900
+updated : 2023-09-26 22:10:59 +0900
 regenerate: true
 ---
 
@@ -50,3 +50,4 @@ regenerate: true
 - [[/web-dev/beginner]]
 - [[/web-dev/next-js-1]]
 - [[/web-dev/css-challenge-1]]
+- [[/web-dev/css-challenge-2]]
