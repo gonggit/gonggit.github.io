@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : CSS CHALLENGE #1 
+title   : CSS CHALLENGE 1 
 summary : 
 date    : 2023-09-25 19:17:45 +0900
-updated : 2023-09-25 19:53:28 +0900
+updated : 2023-09-26 22:15:29 +0900
 tag     : 
 resource: 00/26C4F6-5754-4790-82F7-249EB7C55939
 toc     : true

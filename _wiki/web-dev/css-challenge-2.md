@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : CSS CHALLENGE #2 
+title   : CSS CHALLENGE 2
 summary : 
 date    : 2023-09-26 21:53:42 +0900
-updated : 2023-09-26 22:10:47 +0900
+updated : 2023-09-26 22:15:22 +0900
 tag     : 
 resource: 6F/EDBCB1-91C8-48C6-A526-2E6D2F939322
 toc     : true
