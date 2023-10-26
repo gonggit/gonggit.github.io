@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2023-09-27 20:54:11 +0900
+updated : 2023-10-26 20:40:03 +0900
 regenerate: true
 ---
 
@@ -52,3 +52,4 @@ regenerate: true
 - [[/web-dev/css-challenge-1]]
 - [[/web-dev/css-challenge-2]]
 - [[/web-dev/css-challenge-3]]
+- [[/web-dev/html-video-suspended]]
