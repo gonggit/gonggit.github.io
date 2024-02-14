@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : 스타트업 아이디어를 얻는 방법 (1)
+title   : 스타트업 아이디어를 얻는 방법 - 1. 문제, 우물
 summary : 
 date    : 2024-02-14 14:15:11 +0900
-updated : 2024-02-14 15:20:28 +0900
+updated : 2024-02-14 17:27:29 +0900
 tag     : 
 resource: 36/A9A78E-285E-4D85-A467-CF3E92BA3899
 toc     : true
@@ -14,7 +14,7 @@ latex   : true
 * TOC
 {:toc}
 
-# 플 그레이엄의 스타트업 아이디어를 얻는 방법 - 1. 문제
+# 플 그레이엄의 스타트업 아이디어를 얻는 방법 - 1. 문제, 우물
 [원문](https://www.paulgraham.com/startupideas.html)
 
 ## 들어가며
