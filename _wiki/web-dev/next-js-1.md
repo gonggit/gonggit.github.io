@@ -1,9 +1,9 @@
----
+[[---]]
 layout  : wiki
 title   : Next.JS 입문기 
 summary : 리액트도 제대로 모르는 내가 이세계에서는 Next.js 개발자?
 date    : 2023-09-22 20:30:25 +0900
-updated : 2023-09-25 19:47:27 +0900
+updated : 2024-02-07 18:12:26 +0900
 tag     : 
 resource: D7/BF2D16-787A-4419-A3F3-E7129439DE38
 toc     : true
