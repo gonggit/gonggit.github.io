@@ -3,7 +3,7 @@ layout  : wiki
 title   : 스타트업 아이디어를 얻는 방법 - 3. 알아차리기
 summary : 
 date    : 2024-02-14 16:12:20 +0900
-updated : 2024-02-14 17:28:15 +0900
+updated : 2024-02-20 15:27:00 +0900
 tag     : 
 resource: 11/BA8DA2-37B6-46FB-A8AA-F305C141116B
 toc     : true
@@ -16,6 +16,14 @@ latex   : true
 
 # 폴 그레이엄의 스타트업 아이디를 얻는 방법 - 3. 알아차리기
 [원문](https://www.paulgraham.com/startupideas.html)
+
+전체 글 읽기
+- [[/startup/how-to-get-startup-ideas]]
+- [[/startup/how-to-get-startup-ideas-2]]
+- [[/startup/how-to-get-startup-ideas-3]]
+- [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
 
 ## 알아차리기
 

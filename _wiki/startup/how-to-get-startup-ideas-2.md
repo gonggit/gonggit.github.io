@@ -3,7 +3,7 @@ layout  : wiki
 title   : 스타트업 아이디어를 얻는 방법 - 2. 자기 자신 
 summary : 
 date    : 2024-02-14 15:25:26 +0900
-updated : 2024-02-14 17:27:57 +0900
+updated : 2024-02-20 15:26:45 +0900
 tag     : 
 resource: 44/AEC8A0-FE51-42CC-B9DA-07B0D7CBDAC7
 toc     : true
@@ -16,6 +16,14 @@ latex   : false
 
 # 폴 그레이엄의 스타트업 아이디를 얻는 방법 - 2. 자기 자신
 [원문](https://www.paulgraham.com/startupideas.html)
+
+전체 글 읽기
+- [[/startup/how-to-get-startup-ideas]]
+- [[/startup/how-to-get-startup-ideas-2]]
+- [[/startup/how-to-get-startup-ideas-3]]
+- [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
 
 ## 자기 자신
 

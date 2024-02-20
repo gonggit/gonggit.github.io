@@ -3,7 +3,7 @@ layout  : wiki
 title   : 스타트업 아이디어를 얻는 방법 - 1. 문제, 우물
 summary : 
 date    : 2024-02-14 14:15:11 +0900
-updated : 2024-02-14 17:27:29 +0900
+updated : 2024-02-20 15:26:30 +0900
 tag     : 
 resource: 36/A9A78E-285E-4D85-A467-CF3E92BA3899
 toc     : true
@@ -16,6 +16,14 @@ latex   : true
 
 # 플 그레이엄의 스타트업 아이디어를 얻는 방법 - 1. 문제, 우물
 [원문](https://www.paulgraham.com/startupideas.html)
+
+전체 글 읽기
+- [[/startup/how-to-get-startup-ideas]]
+- [[/startup/how-to-get-startup-ideas-2]]
+- [[/startup/how-to-get-startup-ideas-3]]
+- [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
 
 ## 들어가며
 스타트업 아이디어를 얻는 방법은 바로 스타트업 아이디어에 대해 생각하지 않는 것입니다. 단순히 문제를 찾아다니는 것보다 여러분 자신이 갖고 있는 문제를 찾아보아야 합니다.

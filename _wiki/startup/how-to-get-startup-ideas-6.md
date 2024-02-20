@@ -3,7 +3,7 @@ layout  : wiki
 title   : 스타트업 아이디어를 얻는 방법 - 6. 레시피, 그리고 유기성
 summary : 
 date    : 2024-02-15 13:36:25 +0900
-updated : 2024-02-20 15:24:50 +0900
+updated : 2024-02-20 15:27:24 +0900
 tag     : 
 resource: C9/B43BC8-B4E8-4F2D-B7FF-2E0A60CFF461
 toc     : true
@@ -17,7 +17,13 @@ latex   : false
 # 폴 그레이엄의 스타트업 아이디를 얻는 방법 - 6. 레시피, 그리고 유기성
 [원문](https://www.paulgraham.com/startupideas.html)
 
-[[/startup/how-to-get-startup-ideas-1]]
+전체 글 읽기
+- [[/startup/how-to-get-startup-ideas]]
+- [[/startup/how-to-get-startup-ideas-2]]
+- [[/startup/how-to-get-startup-ideas-3]]
+- [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
 
 ## Recipe
 

@@ -3,7 +3,7 @@ layout  : wiki
 title   : 스타트업 아이디어를 얻는 방법 - 4. 학교, 경쟁 
 summary : 
 date    : 2024-02-14 16:59:53 +0900
-updated : 2024-02-14 18:14:46 +0900
+updated : 2024-02-20 15:27:12 +0900
 tag     : 
 resource: 2B/F39A9C-D89F-463E-A074-0F0CA9BE2493
 toc     : true
@@ -16,6 +16,14 @@ latex   : true
 
 # 폴 그레이엄의 스타트업 아이디를 얻는 방법 - 4. 학교, 경쟁
 [원문](https://www.paulgraham.com/startupideas.html)
+
+전체 글 읽기
+- [[/startup/how-to-get-startup-ideas]]
+- [[/startup/how-to-get-startup-ideas-2]]
+- [[/startup/how-to-get-startup-ideas-3]]
+- [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
 
 ## 학교
 
