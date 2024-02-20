@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-02-14 16:59:52 +0900
+updated : 2024-02-15 13:36:24 +0900
 regenerate: true
 ---
 
@@ -61,3 +61,5 @@ regenerate: true
 - [[/startup/how-to-get-startup-ideas-2]]
 - [[/startup/how-to-get-startup-ideas-3]]
 - [[/startup/how-to-get-startup-ideas-4]]
+- [[/startup/how-to-get-startup-ideas-5]]
+- [[/startup/how-to-get-startup-ideas-6]]
