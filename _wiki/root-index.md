@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-03-28 18:00:14 +0900
+updated : 2024-04-11 15:52:59 +0900
 regenerate: true
 ---
 
@@ -22,6 +22,7 @@ regenerate: true
 * [[/normal/gmail-signature]]
 * [[/normal/happy-new-year]]
 * [[/normal/cute-aggression]]
+- [[/normal/after-interview]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -42,6 +43,8 @@ regenerate: true
 
 ## [[/python]]
 - [[/python/escape-unicode]]
+- [[/python/find-disappeared-number]]
+- [[/python/find-majority-number]]
 
 ## [[/typescript]]
 - [[/typescript/object-literal]]
