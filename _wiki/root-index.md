@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-04-11 15:52:59 +0900
+updated : 2024-04-17 16:50:10 +0900
 regenerate: true
 ---
 
@@ -23,6 +23,8 @@ regenerate: true
 * [[/normal/happy-new-year]]
 * [[/normal/cute-aggression]]
 - [[/normal/after-interview]]
+- [[/normal/standard-model-of-languages-1]]
+- [[/normal/long-covid-brain]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
