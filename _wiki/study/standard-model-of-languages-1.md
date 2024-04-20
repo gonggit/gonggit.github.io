@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : SMoL, 프로그래밍 언어에 대해서 
+title   : SMoL, 프로그래밍 언어에 대해서 (1)
 summary : 
 date    : 2024-04-15 16:32:30 +0900
-updated : 2024-04-16 17:21:07 +0900
+updated : 2024-04-17 17:36:11 +0900
 tag     : 
 resource: B6/6BD3DC-3812-4E2B-8269-72C3C1AD5692
 toc     : true
