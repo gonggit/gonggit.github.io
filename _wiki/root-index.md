@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-04-19 22:32:25 +0900
+updated : 2024-05-08 18:14:55 +0900
 regenerate: true
 ---
 
@@ -24,6 +24,7 @@ regenerate: true
 * [[/normal/cute-aggression]]
 - [[/normal/after-interview]]
 - [[/normal/long-covid-brain]]
+- [[/normal/natural-born-engineer]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -41,6 +42,7 @@ regenerate: true
 - [[/study/standard-model-of-languages-1]]
 - [[/study/try-kafka-documentation]]
 - [[/study/kafka-how-to-realize-metadata]]
+- [[/study/what-is-the-log]]
 
 ## [[/book]]
 - [[/book/stolen-focus]]
