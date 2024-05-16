@@ -3,12 +3,12 @@ layout  : wiki
 title   : 카프카 공식 문서 읽어보기 (1) 
 summary :  
 date    : 2024-04-19 17:01:29 +0900
-updated : 2024-04-19 18:31:08 +0900
-tag     : 
+updated : 2024-05-14 18:21:59 +0900
+tag     : kafka 
 resource: D5/EBC879-A374-41EF-A167-502044C2A8A9
 toc     : true
 public  : true
-parent  : 
+parent  : [[/kafka]] 
 latex   : false
 ---
 * TOC

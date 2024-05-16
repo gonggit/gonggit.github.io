@@ -3,12 +3,12 @@ layout  : wiki
 title   : 카프카 클라이언트가 파티션을 찾는 방법 
 summary : 
 date    : 2024-04-19 18:37:02 +0900
-updated : 2024-04-20 15:52:23 +0900
-tag     : 
+updated : 2024-05-14 18:22:05 +0900
+tag     : kafka 
 resource: E7/71995F-1963-4F92-886C-5BA1803A2A60
 toc     : true
 public  : true
-parent  : 
+parent  : [[/kafka]]
 latex   : false
 ---
 * TOC
