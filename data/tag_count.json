@@ -12,11 +12,27 @@
   "size": 1
  },
  {
+  "name": "insight",
+  "size": 1
+ },
+ {
   "name": "jekyll",
   "size": 1
  },
  {
   "name": "jpa",
+  "size": 1
+ },
+ {
+  "name": "kafka",
+  "size": 2
+ },
+ {
+  "name": "Kakfa",
+  "size": 1
+ },
+ {
+  "name": "kakfa",
   "size": 1
  },
  {
