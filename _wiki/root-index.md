@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-05-14 18:23:24 +0900
+updated : 2024-06-30 15:45:56 +0900
 regenerate: true
 ---
 
@@ -26,6 +26,7 @@ regenerate: true
 - [[/normal/long-covid-brain]]
 - [[/normal/natural-born-engineer]]
 - [[/normal/proof-of-work-experience]]
+- [[/normal/my-new-mac]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
