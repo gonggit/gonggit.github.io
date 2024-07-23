@@ -7,7 +7,6 @@
  "updated": "2023-08-24 15:46:24 +0900",
  "resource": "1B/7E062C-B305-4802-AC93-3AB6D6B03F0E",
  "children": [
-  "_site/nestjs/basic",
   "nestjs/basic"
  ]
 }
