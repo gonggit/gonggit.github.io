@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-07-01 17:06:51 +0900
+updated : 2024-07-01 19:10:33 +0900
 regenerate: true
 ---
 
@@ -21,7 +21,6 @@ regenerate: true
 * [[/normal/baby1]]
 * [[/normal/gmail-signature]]
 * [[/normal/happy-new-year]]
-* [[/normal/cute-aggression]]
 - [[/normal/after-interview]]
 - [[/normal/long-covid-brain]]
 - [[/normal/natural-born-engineer]]
