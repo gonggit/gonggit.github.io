@@ -3,8 +3,8 @@ layout  : wiki
 title   : 카프카는 왜 카프카가 되었나? 
 summary : 
 date    : 2024-05-10 17:33:59 +0900
-updated : 2024-05-14 18:22:08 +0900
-tag     : kakfa 
+updated : 2024-08-26 23:38:42 +0900
+tag     :  
 resource: B5/768432-64B7-4DEB-9583-85B77A11CD06
 toc     : true
 public  : true
