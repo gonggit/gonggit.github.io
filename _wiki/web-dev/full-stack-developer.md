@@ -3,11 +3,11 @@ layout  : wiki
 title   : 풀스택 개발자에 대하여 
 summary : React는 풀스택 프레임워크가 될까 
 date    : 2024-08-28 16:30:57 +0900
-updated : 2024-08-28 16:56:37 +0900
+updated : 2024-11-05 23:41:44 +0900
 tag     : 
 resource: F6/70287A-D49D-4DAE-9168-FE80D3F8C152
 toc     : true
-public  : true
+public  : false 
 parent  : 
 latex   : false
 ---
