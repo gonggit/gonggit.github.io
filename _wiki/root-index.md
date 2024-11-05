@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-08-26 22:13:28 +0900
+updated : 2024-11-05 23:39:32 +0900
 regenerate: true
 ---
 
@@ -27,6 +27,7 @@ regenerate: true
 - [[/normal/proof-of-work-experience]]
 - [[/normal/my-new-mac]]
 - [[/normal/recently-interested-in]]
+- [[/normal/unkillable-demon-king]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -68,6 +69,7 @@ regenerate: true
 - [[/web-dev/css-challenge-2]]
 - [[/web-dev/css-challenge-3]]
 - [[/web-dev/html-video-suspended]]
+- [[/web-dev/full-stack-developer]]
 
 ## [[/startup]]
 - [[/startup/first-six-months]]
