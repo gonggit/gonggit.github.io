@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-11-05 23:42:18 +0900
+updated : 2024-11-19 00:27:09 +0900
 regenerate: true
 ---
 
@@ -28,6 +28,8 @@ regenerate: true
 - [[/normal/my-new-mac]]
 - [[/normal/recently-interested-in]]
 - [[/normal/unkillable-demon-king]]
+- [[/normal/culinary-class-wars]]
+
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
