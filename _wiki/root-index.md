@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-11-19 00:27:09 +0900
+updated : 2024-11-19 23:30:12 +0900
 regenerate: true
 ---
 
@@ -30,7 +30,6 @@ regenerate: true
 - [[/normal/unkillable-demon-king]]
 - [[/normal/culinary-class-wars]]
 
-
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
 
@@ -47,6 +46,7 @@ regenerate: true
 - [[/study/standard-model-of-languages-1]]
 - [[/study/what-is-the-log]]
 - [[/study/redis-keys]]
+- [[/study/hard-to-remember-word-1]]
 
 ## [[/book]]
 - [[/book/stolen-focus]]
