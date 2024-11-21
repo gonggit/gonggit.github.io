@@ -123,11 +123,10 @@
     for (let i = 0; i < links.length; i++) {
         const link = links[i];
         const url = link.getAttribute('href');
-        if (/^(https?:\/\/)?johngrib\.github\.io/.test(url) || /^[\/#]/.test(url)) {
+        if (/^(https?:\/\/)?gonggit\.github\.io/.test(url) || /^[\/#]/.test(url)) {
             // inner link
         } else {
             // external link
-            link.classList.add('external-link')
         }
 
     }
