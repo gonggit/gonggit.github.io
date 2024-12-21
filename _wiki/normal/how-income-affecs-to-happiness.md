@@ -3,11 +3,11 @@ layout  : wiki
 title   : 소득이 행복에 미치는 영향 
 summary : 
 date    : 2024-11-27 00:36:55 +0900
-updated : 2024-11-27 00:39:01 +0900
+updated : 2024-12-21 11:51:39 +0900
 tag     : 
 resource: C3/5BCDBA-6FE1-43E8-98D5-0F3EF3D6C819
 toc     : true
-public  : true
+public  : false 
 parent  : 
 latex   : false
 ---
