@@ -3,12 +3,12 @@ layout  : wiki
 title   : In Sync Replication in Kafka
 summary : Kafka 
 date    : 2024-12-21 11:54:25 +0900
-updated : 2024-12-25 10:51:02 +0900
+updated : 2025-01-02 00:08:18 +0900
 tag     : 
 resource: CE/9C1EFF-0283-426C-B931-124108F3894E
 toc     : true
 public  : true
-parent  : [[/study]]
+parent  : [[/kafka]]
 latex   : false
 ---
 * TOC
