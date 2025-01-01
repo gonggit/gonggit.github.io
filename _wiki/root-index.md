@@ -5,14 +5,12 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2024-12-21 11:54:25 +0900
+updated : 2025-01-01 23:57:12 +0900
 regenerate: true
 ---
 
 ## [[/normal]]
-* [[/normal/start]]
-* [[/normal/all-section-notion]]
-* [[/normal/best-driver]]
+* [[/normal/start]] [[/normal/all-section-notion]] [[/normal/best-driver]]
 * [[/normal/slope-than-intercept]]
 * [[/normal/personal-affairs-1]]
 * [[/normal/cold]]
@@ -30,6 +28,7 @@ regenerate: true
 - [[/normal/unkillable-demon-king]]
 - [[/normal/culinary-class-wars]]
 - [[/normal/the-last-theorem]]
+- [[/normal/end-of-2024]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
