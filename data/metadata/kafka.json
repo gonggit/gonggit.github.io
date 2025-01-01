@@ -7,8 +7,9 @@
  "updated": "2024-05-14 18:20:53 +0900",
  "resource": "EB/9F5178-7B0E-40A0-B140-877C25C94096",
  "children": [
-  "study/kafka-how-to-realize-metadata",
-  "study/try-kafka-documentation",
-  "study/why-the-kafka-is-kafka"
+  "kafka/in-sync-replica",
+  "kafka/kafka-how-to-realize-metadata",
+  "kafka/try-kafka-documentation",
+  "kafka/why-the-kafka-is-kafka"
  ]
 }

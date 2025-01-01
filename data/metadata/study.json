@@ -8,7 +8,6 @@
  "resource": "EB/9F5178-7B0E-40A0-B140-877C25C94096",
  "children": [
   "study/dd",
-  "study/in-sync-replica",
   "study/rust-1",
   "study/rust-2"
  ]
