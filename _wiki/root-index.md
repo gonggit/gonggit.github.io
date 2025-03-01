@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-02-19 18:30:21 +0900
+updated : 2025-03-01 14:00:25 +0900
 regenerate: true
 ---
 
@@ -30,6 +30,8 @@ regenerate: true
 - [[/normal/the-last-theorem]]
 - [[/normal/end-of-2024]]
 - [[/normal/2025-02-19]]
+- [[/normal/2025-02-24]]
+
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -48,6 +50,7 @@ regenerate: true
 - [[/study/what-is-the-log]]
 - [[/study/redis-keys]]
 - [[/study/hard-to-remember-word-1]]
+- [[/study/sum-of-divisions]]
 
 ## [[/book]]
 - [[/book/stolen-focus]]
