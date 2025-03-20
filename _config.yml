@@ -19,13 +19,6 @@ plugins:
 
 permalink: /blog/:year/:month/:day/:title/
 
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  math_engine: mathjax
-
 paginate: 10
 paginator_path: "/blog"
 paginate_path: "/blog/page:num/"
