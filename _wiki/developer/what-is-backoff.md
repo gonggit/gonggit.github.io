@@ -3,12 +3,12 @@ layout  : wiki
 title   : backoff 설정 한 번 봐 주세요. 
 summary : 얼마만큼더기다리는거에요? 
 date    : 2025-03-26 00:14:42 +0900
-updated : 2025-03-26 00:30:14 +0900
+updated : 2025-03-26 00:35:58 +0900
 tag     : 
 resource: D8/DEF49B-56C0-4443-9DDE-54205861E9EC
 toc     : true
 public  : true
-parent  : 
+parent  : [[/developer]]
 latex   : false
 ---
 * TOC

@@ -3,12 +3,12 @@ layout  : wiki
 title   : grep은 개발자의 좋은 친구 
 summary : 찾고싶은 것이 있다면 찾아보세요 
 date    : 2025-03-25 00:05:11 +0900
-updated : 2025-03-25 00:16:42 +0900
+updated : 2025-03-26 00:35:32 +0900
 tag     : grep, cli 
 resource: BD/C03CAB-6428-439C-BC15-AC37E99291BF
 toc     : true
 public  : true
-parent  : 
+parent  : [[/study]]
 latex   : false
 ---
 * TOC
