@@ -6,6 +6,7 @@
  "resource": "A7/35E2F5-981B-4E21-AE4D-34850826262D",
  "children": [
   "book",
+  "developer",
   "hobby",
   "kafka",
   "normal",
