@@ -1,0 +1,12 @@
+{
+ "type": "wiki",
+ "title": "영화",
+ "summary": "감상",
+ "parent": "index",
+ "url": "/wiki/movie",
+ "updated": "2025-03-26 23:55:43 +0900",
+ "resource": "53/6153FC-7C19-43B9-BF1B-6BB67CDD9945",
+ "children": [
+  "movie/still-alice"
+ ]
+}
