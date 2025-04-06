@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-03-29 00:12:27 +0900
+updated : 2025-04-06 23:33:04 +0900
 regenerate: true
 ---
 
@@ -101,3 +101,7 @@ regenerate: true
 ## [[/movie]]
 - [[/movie/still-alice]]
 - [[/movie/pain-hustler]]
+- [[/movie/you-will-die-in-6-hours]]
+
+## [[/math]]
+- [[/math/integration-by-parts]]

@@ -48,6 +48,10 @@
   "size": 1
  },
  {
+  "name": "Netflix,넷플릭스",
+  "size": 1
+ },
+ {
   "name": "notion",
   "size": 1
  },
@@ -81,6 +85,10 @@
  },
  {
   "name": "육아",
+  "size": 1
+ },
+ {
+  "name": "적분,부분적분",
   "size": 1
  }
 ]
