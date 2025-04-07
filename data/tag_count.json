@@ -90,5 +90,9 @@
  {
   "name": "적분,부분적분",
   "size": 1
+ },
+ {
+  "name": "적분,부분적분,integration",
+  "size": 1
  }
 ]
