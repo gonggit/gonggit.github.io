@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-04-07 23:51:25 +0900
+updated : 2025-04-17 00:37:07 +0900
 regenerate: true
 ---
 
@@ -63,6 +63,7 @@ regenerate: true
 - [[/python/escape-unicode]]
 - [[/python/find-disappeared-number]]
 - [[/python/find-majority-number]]
+- [[/python/find-first-or-none]]
 
 ## [[/typescript]]
 - [[/typescript/object-literal]]

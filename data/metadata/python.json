@@ -7,6 +7,7 @@
  "updated": "2023-06-14 17:18:50 +0900",
  "resource": "28/C1D578-865B-4B4C-803E-CA83B88A03C5",
  "children": [
-  "python/escape-unicode"
+  "python/escape-unicode",
+  "python/find-first-or-none"
  ]
 }
