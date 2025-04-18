@@ -9,6 +9,7 @@
  "children": [
   "study/dd",
   "study/grep",
+  "study/redis-xrange",
   "study/rust-1",
   "study/rust-2"
  ]

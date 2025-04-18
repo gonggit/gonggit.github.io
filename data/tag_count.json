@@ -60,6 +60,10 @@
   "size": 1
  },
  {
+  "name": "redis,xrange,deprecated",
+  "size": 1
+ },
+ {
   "name": "springboot",
   "size": 1
  },
