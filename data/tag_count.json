@@ -1,6 +1,6 @@
 [
  {
-  "name": "adolescene,소년의시간,넷플릭스",
+  "name": "adolescene",
   "size": 1
  },
  {
@@ -17,6 +17,10 @@
  },
  {
   "name": "cli",
+  "size": 1
+ },
+ {
+  "name": "deprecated",
   "size": 1
  },
  {
@@ -64,7 +68,7 @@
   "size": 1
  },
  {
-  "name": "redis,xrange,deprecated",
+  "name": "redis",
   "size": 1
  },
  {
@@ -85,6 +89,18 @@
  },
  {
   "name": "wiki",
+  "size": 1
+ },
+ {
+  "name": "xrange",
+  "size": 1
+ },
+ {
+  "name": "넷플릭스",
+  "size": 1
+ },
+ {
+  "name": "소년의시간",
   "size": 1
  },
  {

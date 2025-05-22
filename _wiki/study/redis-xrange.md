@@ -3,8 +3,8 @@ layout  : wiki
 title   : ZRANGEBYSCORE는 왜 사라졌을까?
 summary : 
 date    : 2025-04-19 00:16:29 +0900
-updated : 2025-04-19 00:19:29 +0900
-tag     : redis,xrange,deprecated 
+updated : 2025-05-22 23:24:30 +0900
+tag     : redis xrange deprecated 
 resource: 8E/4EA5F3-9794-4CB3-A125-2A2787433C79
 toc     : true
 public  : true

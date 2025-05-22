@@ -3,8 +3,8 @@ layout  : wiki
 title   : 소년의 시간 감상 
 summary : 나는 어떻게 아이를 키워야하나 
 date    : 2025-05-22 23:20:00 +0900
-updated : 2025-05-22 23:22:33 +0900
-tag     : adolescene,소년의시간,넷플릭스 
+updated : 2025-05-22 23:24:09 +0900
+tag     : adolescene 소년의시간 넷플릭스 
 resource: 72/844B1F-34C6-4F05-9D78-B5967C55ACB3
 toc     : true
 public  : true
