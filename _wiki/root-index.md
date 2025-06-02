@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-05-22 23:20:35 +0900
+updated : 2025-06-02 23:54:31 +0900
 regenerate: true
 ---
 
@@ -99,6 +99,9 @@ regenerate: true
 
 ## [[/developer]]
 - [[/developer/what-is-backoff]]
+- [[/developer/with-ai]]
+- [[/developer/jq-academy]]
+- [[/developer/aposd-exceptions]]
 
 ## [[/movie]]
 - [[/movie/still-alice]]
