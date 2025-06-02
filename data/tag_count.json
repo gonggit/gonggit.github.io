@@ -4,10 +4,6 @@
   "size": 1
  },
  {
-  "name": "ai",
-  "size": 1
- },
- {
   "name": "Alice",
   "size": 1
  },
@@ -25,10 +21,6 @@
  },
  {
   "name": "cli",
-  "size": 1
- },
- {
-  "name": "cursor",
   "size": 1
  },
  {
@@ -53,10 +45,6 @@
  },
  {
   "name": "jpa",
-  "size": 1
- },
- {
-  "name": "jq",
   "size": 1
  },
  {

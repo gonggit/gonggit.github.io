@@ -8,7 +8,6 @@
  "resource": "54/DEC26C-5B6A-45D0-9C98-0D99697F1A04",
  "children": [
   "developer/aposd-exceptions",
-  "developer/jq-academy",
   "developer/what-is-backoff"
  ]
 }

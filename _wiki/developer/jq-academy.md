@@ -3,11 +3,11 @@ layout  : wiki
 title   : jq를 학습해보자 
 summary : 
 date    : 2025-05-30 23:29:22 +0900
-updated : 2025-05-30 23:44:06 +0900
+updated : 2025-06-03 00:33:20 +0900
 tag     : jq cursor ai 
 resource: D7/063ECA-60CA-4064-95A8-8FBF88D1B572
 toc     : true
-public  : true
+public  : false
 parent  : [[/developer]]
 latex   : false
 ---
