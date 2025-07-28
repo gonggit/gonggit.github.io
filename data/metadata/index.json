@@ -5,10 +5,12 @@
  "updated": "2023-09-21 20:35:10 +0900",
  "resource": "A7/35E2F5-981B-4E21-AE4D-34850826262D",
  "children": [
+  "baby-care",
   "book",
   "developer",
   "hobby",
   "kafka",
+  "math",
   "normal",
   "python",
   "spring-boot",

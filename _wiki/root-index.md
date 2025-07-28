@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-06-20 16:29:07 +0900
+updated : 2025-07-28 19:04:24 +0900
 regenerate: true
 ---
 
@@ -113,3 +113,8 @@ regenerate: true
 ## [[/math]]
 - [[/math/integration-by-parts]]
 - [[/math/integration-by-parts-2]]
+- [[/math/solve-double-radical]]
+
+
+## [[/baby-care]]
+

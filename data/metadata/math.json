@@ -1,0 +1,14 @@
+{
+ "type": "wiki",
+ "title": "취미수학",
+ "summary": "목적 없는 취미",
+ "parent": "index",
+ "url": "/wiki/math",
+ "updated": "2025-07-28 19:07:23 +0900",
+ "resource": "34/B88A69-0D83-4C48-B235-8A5BC8B170BD",
+ "children": [
+  "math/integration-by-parts",
+  "math/integration-by-parts-2",
+  "math/solve-double-radical"
+ ]
+}
