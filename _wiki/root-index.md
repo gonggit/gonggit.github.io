@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2025-11-18 23:33:50 +0900
+updated : 2025-12-31 10:51:18 +0900
 regenerate: true
 ---
 
@@ -33,7 +33,7 @@ regenerate: true
 - [[/normal/2025-02-24]]
 - [[/normal/2025-03-24]]
 - [[/normal/here-comes-the-new-baby]]
-
+- [[/normal/farewell-2025]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
