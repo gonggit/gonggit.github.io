@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2026-01-07 23:36:19 +0900
+updated : 2026-03-19 00:00:50 +0900
 regenerate: true
 ---
 
@@ -34,6 +34,7 @@ regenerate: true
 - [[/normal/2025-03-24]]
 - [[/normal/here-comes-the-new-baby]]
 - [[/normal/farewell-2025]]
+- [[/normal/2026-03-18]]
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
@@ -114,7 +115,6 @@ regenerate: true
 - [[/math/integration-by-parts]]
 - [[/math/integration-by-parts-2]]
 - [[/math/solve-double-radical]]
-
 
 ## [[/baby-care]]
 - [[/baby-care/subtle-guiltiness]]
