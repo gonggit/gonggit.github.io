@@ -3,12 +3,12 @@ layout  : wiki
 title   : 어떤 날들 
 summary : 
 date    : 2026-03-19 23:10:30 +0900
-updated : 2026-03-19 23:20:37 +0900
+updated : 2026-03-19 23:23:10 +0900
 tag     : 
 resource: B4/0DD811-4DCE-4D11-AD31-1E4BAADEACF1
 toc     : true
 public  : true
-parent  : 
+parent  : [[/reading]]
 latex   : false
 ---
 * TOC
