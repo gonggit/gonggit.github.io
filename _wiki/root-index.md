@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2026-03-22 23:30:48 +0900
+updated : 2026-04-13 17:17:55 +0900
 regenerate: true
 ---
 
@@ -35,6 +35,8 @@ regenerate: true
 - [[/normal/here-comes-the-new-baby]]
 - [[/normal/farewell-2025]]
 - [[/normal/2026-03-18]]
+- [[/normal/fxxking-h-card]]
+
 
 ## [[/spring-boot]]
 * [[/spring-boot/order-by-enum-value]]
