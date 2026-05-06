@@ -5,7 +5,7 @@ toc     : true
 public  : true
 comment : false
 resource: 06/227923-8E1A-42ED-BD8B-7B8C4E1E70EE
-updated : 2026-04-13 17:17:55 +0900
+updated : 2026-05-07 00:50:08 +0900
 regenerate: true
 ---
 
@@ -117,6 +117,7 @@ regenerate: true
 - [[/math/integration-by-parts]]
 - [[/math/integration-by-parts-2]]
 - [[/math/solve-double-radical]]
+- [[/math/montyhall]]
 
 ## [[/baby-care]]
 - [[/baby-care/subtle-guiltiness]]
